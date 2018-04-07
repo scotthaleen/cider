@@ -596,7 +596,7 @@ through a stack of help buffers.  Variables `help-back-label' and
     "Code never lies, comments sometimes do. -Ron Jeffries"
     "The true delight is in the finding out rather than in the knowing. -Isaac Asimov"
     "If paredit is not for you, then you need to become the sort of person that paredit is for. -Phil Hagelberg"
-    "Express Yourself. -Madonna"
+    "Express Yourself. -Charles Wright"
     "Put on your red shoes and dance the blues. -David Bowie"
     "Do. Or do not. There is no try. -Yoda"
     "The enjoyment of one's tools is an essential ingredient of successful work. -Donald E. Knuth"
